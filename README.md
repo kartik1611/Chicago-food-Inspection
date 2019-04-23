@@ -4,4 +4,4 @@ The project is about the food inspection across the chicago city, The project de
 
 The data was dump in sql and python connector was used for furthure pre processing and visulization of the data.
 
-Please go through the pdf attached for furthure insights.
+Please go through the project report attached for furthure insights.
